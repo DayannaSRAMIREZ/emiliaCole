@@ -1,0 +1,28 @@
+.home{
+    background-image: url('/images/emilia-home.jpg');
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: right -65px;
+}
+.home header{
+    margin-left: 30px;
+}
+.home nav ul li {
+    margin: 10px 0;
+}
+.home nav ul li a{
+    color: rgb(182, 175, 175);
+}
+.home h1 {
+    background-color: rgb(252, 249, 249, 0.5);
+    font-size: 64px;
+    margin-top: 120px;
+}
+
+.home h2 {
+    font-size: 36px;
+    font-family: 'Work Sans';
+    margin-left: 30px;
+    margin-top: 120px;
+
+}

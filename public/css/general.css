@@ -1,0 +1,31 @@
+body {
+    font-family: 'Open Sans';
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+h1,
+h2 {
+    text-transform: uppercase;
+    font-family: 'raleway';
+}
+
+header nav ul li {
+    text-transform: uppercase;
+}
+
+header nav ul {
+    padding: 0;
+}
+
+a {
+    color: black;
+}
+
+

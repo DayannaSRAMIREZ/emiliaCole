@@ -1,0 +1,12 @@
+@import './general.css';
+@import './home.css';
+@import './about.css';
+@import './music.css';
+@import './contact.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@400;700&family=Work+Sans:ital@1&display=swap');
+@import'./general.css'; 
+@import'./about.css'; 
+@import'./home.css'; 
+@import'./music.css'; 
+@import'./contact.css'; 
